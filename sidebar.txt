@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dag:home|Door43 (dag)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dag|d43-dag repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dag/archive/master.zip|d43-dag.zip]]
+
+**Recent Changes**
+{{changes>ns = dag}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dag|Ethnologue data]]
+
